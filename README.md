@@ -8,7 +8,7 @@
 **Screenshots:**
 
 <div>
-<img src = "./Screenshots/home-pic-playmode-mythirdscript-addnumbers-cs-console-NicoB" width = "500">
+<img src = "Screenshots/home-pic-playmode-mythirdscript-addnumbers-cs-console-NicoB.JPG" width = "500">
 </div> 
 
 **Lessons learned:** How to formate and design the README.md file and how to embedd screenshots, also get more advanced in printing out variables
