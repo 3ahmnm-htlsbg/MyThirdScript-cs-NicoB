@@ -1,4 +1,6 @@
-public class NewBehaviourScript : MonoBehaviour
+using UnityEngine;
+
+public class AddNumbers : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
